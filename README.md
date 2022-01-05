@@ -1,4 +1,4 @@
-# Mediocre Manual Rodants
+# Mediocre Manual Rodents
 
 This is a recreation of the game [Super Auto Pets](https://teamwood.itch.io/super-auto-pets) by [Team Wood Games](https://teamwoodgames.com/). Please go play there version.
 
